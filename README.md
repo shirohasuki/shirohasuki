@@ -1,13 +1,11 @@
-### Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm shirohasuki</h1>
 
-### What about me
+### Welcome to my github profile!
 
 + :school:I'm now an undergraduate student in **@HNU** and is going to be a postgraduate in **@SEU**
 
 + :telescope:Currently, I am researching **Degital IC Design**, **Architecture of computer** and **AI Compiler**
-+ :e-mail:U can reach me at whmio0115@hainanu.edu.com
++ :e-mail:You can reach me at whmio0115@hainanu.edu.com
 
 ### Languages & Tools
 
