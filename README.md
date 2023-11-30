@@ -19,9 +19,6 @@
 + :telescope:Currently, I am researching **Degital IC Design**, **Architecture of computer** and **AI Compiler**
 + :e-mail:You can reach me at whmio0115@hainanu.edu.com
 
-### Languages & Tools
-
-
 ### Statics
 
 <img align="Left" height="160px" src="https://github-readme-stats.vercel.app/api?username=shirohasuki&show_icons=true&hide_border=true&theme=radical&layout=compact">
