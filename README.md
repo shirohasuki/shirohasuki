@@ -16,7 +16,7 @@
 
 + :school:I'm now an undergraduate student in **@HNU** and is going to be a postgraduate in **@SEU**
 
-+ :telescope:Currently, I am researching **Degital IC Design**, **Architecture of computer** and **AI Compiler**
++ :telescope: My current research interests are focus on **Degital IC Design**, **Architecture of computer** and **AI Compiler**
 + :e-mail:You can reach me at whmio0115@hainanu.edu.com
 
 ### Statics
