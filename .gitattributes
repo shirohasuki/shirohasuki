@@ -1,3 +1,3 @@
-compression/* linguist-vendored
-compression/compression.ipynb linguist-vendored=false
-*.ipynb linguist-language=c
+//compression/* linguist-vendored
+//compression/compression.ipynb linguist-vendored=false
+//*.ipynb linguist-language=c
