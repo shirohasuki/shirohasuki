@@ -13,3 +13,7 @@
 ### Statics
 
 <img align="Left" src="https://github-readme-stats.vercel.app/api?username=shirohasuki&show_icons=true&hide_border=true&theme=radical&layout=compact" width="40%"><img align="Left" height="164px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shirohasuki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&langs_count=6" /><br>
