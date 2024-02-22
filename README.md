@@ -13,7 +13,7 @@
 
 ---
 
-### Welcome to my github profile!
+### Welcome to my GitHub profile!
 
 + :school:I'm now an undergraduate student in [**@HNU**](https://sice.hainanu.edu.cn/). and is going to be a postgraduate in [**@SEU**](https://ic.seu.edu.cn/).
 
