@@ -17,7 +17,7 @@
 
 + :school:I'm now an undergraduate student in [**@HNU**](https://sice.hainanu.edu.cn/). and is going to be a postgraduate in [**@SEU**](https://ic.seu.edu.cn/).
 
-+ :telescope: My current research interests are focus on **ML Processor**, **Architecture of Computer** and **MLIR**
++ :telescope: My current research interests are focus on **ML Processor**, **Architecture of Computer** and **AI Complier**
 + :e-mail: You can reach me at whmio0115@hainanu.edu.com
 
 ### Statics
