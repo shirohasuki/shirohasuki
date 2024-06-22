@@ -17,8 +17,8 @@
 
 + :school:I'm a postgraduate student in [**@SEU**](https://ic.seu.edu.cn/).
 + :telescope: My current research interests are focus on **ML Processor**, **Architecture of Computer** and **AI Complier**
-+ :e-mail: You can reach me at whmio0115@hainanu.edu.com
-+ :smirk: I'm working full steam ahead on my own porject **TETris**(Thorough Efficient Training-Inference Reconfigurable Infrastructure System). This is a full-stack hardware and software platform for machine learning tasks.
++ :e-mail: You can reach me at whmio0115@gmail.com
++ :smirk: I'm working full steam ahead on my project **TETris**(Thorough Efficient Training-Inference Reconfigurable Infrastructure System). This is a full-stack hardware and software platform for machine learning tasks.
 
 ### Statics
 
