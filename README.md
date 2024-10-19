@@ -17,7 +17,7 @@
 ### Welcome to my GitHub profile!
 
 + :school:I'm a postgraduate student in [**@SEU**](https://ic.seu.edu.cn/).
-+ :telescope: My research interests are around MLSys. I'm dedicated to achieving Efficient ML through the study of machine learning algorithms and software/hardware infrastructure, currently focusing on **ML Processors**, **micro-architecture**, and **AI Compilers**.
++ :telescope: My research interests are around MLSys. I'm dedicated to achieving Efficient ML through the study of machine learning algorithms and software/hardware infrastructure, currently focusing on **SSL**, **micro-architecture**, and **AI Compilers**.
 + :e-mail: You can reach me at whmio0115@gmail.com
 + :smirk: I'm working full steam ahead on my project **TETris** (Thorough Efficient Training-Inference Reconfigurable Infrastructure System). This is a full-stack hardware and software platform for machine learning tasks.
 
