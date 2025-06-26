@@ -24,4 +24,4 @@
 ### Statics
 
 <img align="Left" height="160px" src="https://github-readme-stats.vercel.app/api?username=shirohasuki&show_icons=true&hide_border=true&theme=radical&layout=compact">
-<img align="Left" height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&theme=dracula"/><br>
+<!-- <img align="Left" height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&theme=dracula"/><br> -->
