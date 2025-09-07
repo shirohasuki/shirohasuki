@@ -26,4 +26,4 @@
 <img align="Left" height="160px" src="https://github-readme-stats.vercel.app/api?username=shirohasuki&show_icons=true&hide_border=true&theme=radical&layout=compact">
 <!-- <img align="Left" height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&theme=dracula"/><br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&theme=dracula&card_width=325)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirohasuki&hide_title=true&hide_border=true&layout=compact&theme=dracula&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
