@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.没钱续费.top/">homepage</a> ∙
+    <a href="https://shirohasuki.github.io/">homepage</a> ∙
     <a href="https://www.没钱续费.top/">cv</a> ∙ 
     <a href="https://github.com/shirohasuki/">github</a> ∙ 
     <a href="https://space.bilibili.com/200359295">bili</a> ∙ 
