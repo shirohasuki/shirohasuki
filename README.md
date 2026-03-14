@@ -18,7 +18,7 @@
 + :school:I'm a postgraduate student in [**@SEU**](https://ic.seu.edu.cn/).
 + :telescope: My research interests are centered around MLSys, with a current focus on **SSL**, **micro-architecture**, and **AI Compilers**.
 + :e-mail: You can reach me at whmio0115@gmail.com
-+ :smirk: I'm working full steam ahead on [**buckyball**](https://github.com/DangoSys/buckyball) project, an open-source E2E NPU develop framework.
++ :smirk: I'm working full steam ahead on [**buckyball**](https://github.com/DangoSys/buckyball) project, an open-source end-to-end NPU develop framework.
 
 ### Statics
 
