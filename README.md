@@ -20,6 +20,10 @@
 + :e-mail: You can reach me at whmio0115@gmail.com
 + :smirk: I'm working full steam ahead on [**buckyball**](https://github.com/DangoSys/buckyball) project, an open-source end-to-end NPU develop framework.
 
+### Talks
+
++ :microphone: **基于 RISC-V 构建领域专用芯片设计的通用基座**, 2026 RISC-V China Summit. [[slides]](talks/2026-RISC-V-China-Summit-Buckyball.pdf)
+
 ### Statics
 
 <img align="Left" height="160px" src="https://github-stats-extended.vercel.app/api?username=shirohasuki&show_icons=true&hide_border=true&theme=radical&layout=compact">
